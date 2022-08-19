@@ -10,7 +10,10 @@
   Registro de envios, rastreamento, taxação, logística, detecção de problemas e gargalos.
 
 ## Clientes
-  Empresas públicas e privadas de entregas
+  Empresas públicas e privadas de entregasç
+ 
+## Usuários
+  Clientes e provedores de serviços de entrega
 
 ## Etapas
   Definição casos de uso
@@ -18,7 +21,7 @@
   Definição sequencia de interação
 
   Definição de módulos
-
+  
 ## Critérios de qualidade:
   Facilidade
   Confiabilidade
